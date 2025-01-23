@@ -1,0 +1,227 @@
+Title,PIF(collected),Value,Set,median_pif,SMILES
+"2,3-Dehydrosilybin",1.6,0,Test,1.6,COc1c(O)ccc(c1)[C@H](O2)[C@H](CO)Oc(c23)ccc(c3)-c(c(c4=O)O)oc(c45)cc(O)cc5O
+ISB,1.0,0,Train,1.0,COc1c(O)ccc(c1)[C@H]([C@H](O2)CO)Oc(c23)ccc(c3)[C@H]([C@H](C4=O)O)Oc(c45)cc(O)cc5O
+SC,1.0,0,Train,1.0,c1cc(O)c(OC)cc1[C@@H]([C@@H]2OC)Oc(c23)ccc(c3)[C@H]([C@H](C4=O)O)Oc(c45)cc(O)cc5O
+SD,1.0,0,Train,1.0,COc1c(O)ccc(c1)[C@H]([C@H](CO2)[C@@H]3[C@]24O)[C@@H](C4=O)C(=C3)[C@H]([C@H](C5=O)O)Oc(c56)cc(O)cc6O
+SB,1.0,0,Test,1.0,COc1c(O)ccc(c1)[C@H](O2)[C@H](CO)Oc(c23)ccc(c3)[C@H]([C@H](C4=O)O)Oc(c45)cc(O)cc5O
+CPDA,8.06,1,Test,8.06,[C@@H]12CC[C@H](N2C)C[C@@H](C1)N(CC3)CCN3C(=O)CC(=C4C(=O)OC)NC(=C(C(=O)OC)[C@@H]4c5c(Cl)cccc5Cl)CCc6c(cccc6)COCCN(CC)CC
+Bayy3118,20.0,1,Train,20.0,O=C(O)c(c1=O)cn(C)c(c12)c(Cl)c(c(F)c2)N(C3)C[C@H]([C@H]34)NCC4
+Sparfloxacin,10.0,1,Test,10.0,O=C(O)c(c1=O)cn(C2CC2)c(c13)c(F)c(c(F)c3N)N(C[C@H]4C)C[C@H](C)N4
+TCSA,3.3,1,Train,23.3,c1c(Cl)cc(Cl)c(O)c1C(=O)Nc(c2)ccc(Cl)c2Cl
+Olaquindox,2.5,1,Test,2.5,OCCNC(=O)c(c(C)n1O)[n+](=O)c(c12)cccc2
+Ciprofloxacin,1.7,1,Train,12.95,O=C(O)c(c1=O)cn(C2CC2)c(c13)cc(c(F)c3)N4CCNCC4
+Moxifloxacin,1.0,0,Test,1.0,O=C(O)c(c1=O)cn(C2CC2)c(c13)c(OC)c(c(F)c3)N(C4)C[C@H]([C@H]45)NCCC5
+Amiodarone,7.15,1,Test,7.125,c1cccc(c12)oc(CCCC)c2C(=O)c3cc(I)c(c(I)c3)OCCN(CC)CC
+Chlorpromazine,41.22,1,Test,27.0,CN(C)CCCN1c(cccc2)c2Sc(c13)ccc(Cl)c3
+6-Methylcoumarin,96.6,1,Train,21.3,Cc(c1)ccc(c12)oc(=O)cc2
+Nalidixic Acid,17.35,1,Train,13.175,O=C(O)c(c1=O)cn(CC)c(c12)nc(C)cc2
+Norfloxacin,28.5,1,Train,6.0,O=C(O)c(c1=O)cn(CC)c(c12)cc(c(F)c2)N3CCNCC3
+Bithionol,13.07,1,Train,8.335,Clc1cc(Cl)cc(c1O)Sc(c2O)cc(Cl)cc2Cl
+Ofloxacin,7.6,1,Test,18.8,O=C(O)c(c1=O)cn2[C@H](C)COc(c2c13)c(c(F)c3)N(CC4)CCN4C
+Penicillin G,2.15,0,Train,1.0,c1ccccc1CC(=O)N[C@@H]2C(=O)N([C@@H]23)[C@@H](C(=O)O)C(S3)(C)C
+p-Aminobenzoic acid (PABA),1.5,0,Train,1.25,O=C(O)c1ccc(N)cc1
+Histidine,1.0,0,Train,1.0,O=C(O)[C@@H](N)Cc1c[nH]cn1
+Sodium Lauryl Sulfate,1.154,0,Train,1.077,CCCCCCCCCCCCOS(=O)(=O)O
+Benzophenone-4,1.52,0,Train,1.0,c1ccccc1C(=O)c2c(O)cc(OC)c(c2)S(=O)(=O)O
+Thiourea,1.0,0,Train,1.0,NC(=S)N
+Piroxicam,1.0,0,Train,1.0,n1ccccc1NC(=O)C(=C2O)N(C)S(=O)(=O)c(c23)cccc3
+Octyl salicylate,1.51566667,0,Train,1.516,c1cccc(O)c1C(=O)OC[C@@H](CC)CCCC
+Octyl methoxycinnamate,1.2495,0,Train,1.25,CCCC[C@H](CC)COC(=O)/C=C/c1ccc(cc1)OC
+Hexachlorophene,1.5,1,Train,1.25,Clc1c(Cl)cc(Cl)c(O)c1Cc2c(O)c(Cl)cc(Cl)c2Cl
+CHEMBL3798837,6.0,1,Train,6.0,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c(no2)nc2-c(s3)cc(C)c3CN(C)CC(C)C
+CHEMBL3800086,1.0,0,Train,1.0,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c(no2)nc2-c(s3)cc(C)c3CN(C)C
+CHEMBL3798420,1.0,0,Train,1.0,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(cc3)cc(C)c3CN(C)C
+CHEMBL3797568,1.0,0,Test,1.0,OC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(cc(n3)C)cc3CN(CC)CC
+CHEMBL3124957,1.7,0,Train,1.7,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(cc(n3)C)cc3C(CC)CC
+CHEMBL3799026,1.0,0,Train,1.0,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(cc(n3)C)cc3CN(C)CC(C)C
+CHEMBL3799423,1.0,0,Train,1.0,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(cc(n3)C)cc3CN(C)C
+CHEMBL3799686,1.0,0,Train,1.0,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(c3)cc(C)cc3CN(C)CC(C)C
+CHEMBL3799493,1.0,0,Train,1.0,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(cc(n3)C)cc3CN(CC)CC
+CHEMBL3800203,1.0,0,Train,1.0,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(cc3)ccc3CNC
+CHEMBL3797940,1.0,0,Train,1.0,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c(no2)nc2-c(s3)cc(C)c3CN(C)CCC
+CHEMBL3797376,1.3,0,Test,1.3,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(n3)cc(cc3C)OC4CCCC4
+CHEMBL3797447,7.6,1,Test,7.6,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c3cc(OC)c(nc3)C4CCCC4
+CHEMBL3797626,2.3,1,Test,2.3,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c3cc(nc(c3)OC)C4CCCC4
+CHEMBL3797747,2.4,1,Train,2.4,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c3cc(OC)cc(n3)C4CCCC4
+CHEMBL3797829,1.1,0,Train,1.1,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nnc(o2)-c(cc(n3)C)cc3CC(C)C
+CHEMBL3798690,6.5,1,Test,6.5,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(cc3)nc(OC)c3C4CCCC4
+CHEMBL3798906,1.6,0,Train,1.6,CC(C)Cc(c1CC)ncc(c1)-c(on2)nc2-c(c3)cc(C)c(c3CC)OC[C@@H](O)CO
+CHEMBL3799953,2.1,1,Train,2.1,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(nc3)cc(OC)c3C4CCCC4
+CHEMBL3799976,2.1,1,Test,2.1,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c3cc(cc(n3)OC)C4CCCC4
+CHEMBL3800019,7.5,1,Train,7.5,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(cc3C)cc(n3)OC4CCCC4
+CHEMBL3800028,2.0,1,Train,2.0,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(cc3C)nc(c3)OC4CCCC4
+CHEMBL3800336,0.9,0,Test,0.9,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(cc(n3)OC)cc3C(CC)CC
+CHEMBL3800402,1.4,0,Train,1.4,OCC(=O)NC[C@H](O)COc(c1CC)c(C)cc(c1)-c2nc(on2)-c(c3)cnc(c3C)OC4CCCC4
+CHEMBL3818665,0.231,1,Test,0.231,O=C1C(C)(C)Oc(c12)c(C)c(C)c(c2C)N3CCN(CC3)c4ccc(cc4)OC
+19,2.3,1,Train,2.3,c1n[nH]c(c12)cc(-c(c3CC)cc(F)c(c3)O)cc2NS(=O)(=O)CC
+34,11.5,1,Train,11.5,c1n[nH]c(c12)cc(-c(c3CC)cc(F)c(c3)O)cc2NS(=O)(=O)N(C)C
+Cetirizine,0.9,0,Train,0.9,O=C(O)COCCN(CC1)CCN1[C@@H](c2ccc(Cl)cc2)c3ccccc3
+Octylmethoxycinnamate,0.99,0,Train,0.99,O=C(O)/C=C/c1ccc(cc1)OCCCCCCCCC
+Chloroquine,1.0,0,Train,1.0,CCN(CC)CCC[C@H](C)Nc1ccnc(c12)cc(Cl)cc2
+Dapsone,1.0,0,Train,1.0,Nc1ccc(cc1)S(=O)(=O)c(cc2)ccc2N
+5-Fluorouracil,1.0,0,Train,1.0,Fc1c(=O)[nH]c(=O)[nH]c1
+Glibenclamide,1.0,0,Train,1.0,c1c(Cl)ccc(OC)c1C(=O)NCCc2ccc(cc2)S(=O)(=O)NC(=O)NC3CCCCC3
+Griseofulvin,1.0,0,Train,1.0,C[C@@H]1CC(=O)C=C(OC)[C@]12C(=O)c3c(O2)c(Cl)c(OC)cc3OC
+Hydrochlorothiazide,1.0,0,Train,1.0,N1CNS(=O)(=O)c(c12)cc(c(Cl)c2)S(=O)(=O)N
+Indomethacin,1.0,0,Train,1.25,COc(c1)ccc(c12)n(c(C)c2CC(=O)O)C(=O)c3ccc(Cl)cc3
+Sulfamethoxazole,1.0,0,Train,1.0,Cc1cc(no1)NS(=O)(=O)c(cc2)ccc2N
+Trimethoprim,1.0,0,Train,1.0,c1nc(N)nc(N)c1Cc2cc(OC)c(OC)c(c2)OC
+Octylsalicylate,1.02,0,Train,1.476,c1cccc(c1C(=O)O)OCCCCCCCC
+3-Benzylidenecamphor,1.09,0,Train,1.165,CC1(C)[C@H](CC2)C(\C(=O)[C@@]12C)=C\c3ccccc3
+Oxybenzone,1.2,0,Test,1.2,c1ccccc1C(=O)c2c(O)cc(cc2)OC
+4-Methylbenzylidene camphor,1.21,0,Test,1.21,C[C@@]12C(C)(C)[C@H](CC2)C(\C1=O)=C\c3ccc(C)cc3
+Chlorhexidine,1.35,0,Test,1.986,c1cc(Cl)ccc1N/C(N)=N/C(N)=N/CCCCCC\N=C(N)\N=C(N)\Nc2ccc(Cl)cc2
+Benzophenone,1.5,1,Train,10.0,c1ccccc1C(=O)c2ccccc2
+Terephthalylidene dicamphor,1.55,0,Train,1.55,CC1(C)[C@@H](CC2)C(\C(=O)[C@]12C)=C\c3ccc(cc3)/C=C(/C(=O)[C@@]45C)[C@H](C4(C)C)CC5
+Terfenadine,1.6,0,Train,1.6,CC(C)(C)c1ccc(cc1)[C@H](O)CCCN(CC2)CCC2C(O)(c3ccccc3)c4ccccc4
+Omeprazole,2.7,1,Test,2.7,n1cc(C)c(OC)c(C)c1C[S@@](=O)c(n2)[nH]c(c23)cc(cc3)OC
+Naproxen,3.0,1,Test,3.0,O=C(O)[C@@H](C)c(c1)ccc(c12)cc(cc2)OC
+Cinnamic aldehyde,3.6,1,Train,3.6,O=C/C=C/c1ccccc1
+Nifedipine,23.1,1,Train,23.1,COC(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c2c([N+]([O-])=O)cccc2
+Metyrapone,25.4,1,Train,25.4,c1ncccc1C(=O)C(C)(C)c2cccnc2
+Quinidine,8.2,1,Train,8.2,C=C[C@@H]([C@H]12)CN(CC2)[C@@H](C1)[C@@H](O)c3ccnc(c34)ccc(c4)OC
+Musk xylene,250.0,1,Train,29.1,CC(C)(C)c1c([N+]([O-])=O)c(C)c([N+]([O-])=O)c(C)c1[N+]([O-])=O
+Ethylhexyl-dimethyl-p-aminobenzoate,1.943,0,Train,1.943,O=C(O)c1c(C)c(C)c(N)c(c1)[C@@H](CC)CCCCC
+2-Octylmethacrylate,1.377,0,Test,1.377,C=C(C)C(=O)OCCCCCCCC
+Lactic acid,1.0,0,Train,1.0,O=C(O)[C@H](C)O
+Dichlorophene,1.9,0,Train,1.95,c1c(Cl)ccc(O)c1Cc2c(O)ccc(Cl)c2
+Fenticlor,1.4,0,Train,1.4,c1cc(Cl)cc(c1O)Sc(c2O)cc(Cl)cc2
+Isoniazid,1.0,0,Test,1.0,NNC(=O)c1ccncc1
+Octyl dimethyl PABA,2.7,1,Test,2.7,CCCCCCC(C)(C)COC(=O)c1ccc(cc1)N(C)C
+Omadine,2.9,1,Test,2.9,S=c1ccccn1O
+Pyridoxine,3.4,1,Train,3.4,OCc1c(CO)c[nH+]c(C)c1[O-]
+Sulfanilamide,1.0,0,Train,1.0,Nc1ccc(cc1)S(=O)(=O)N
+Sulfasalazine,1.0,0,Train,1.0,O=C(O)c1c(O)ccc(c1)/N=N/c2ccc(cc2)S(=O)(=O)Nc3ccccn3
+Triclocarban,1.0,0,Train,1.0,Clc1c(Cl)ccc(c1)NC(=O)Nc2ccc(Cl)cc2
+Aspirin,1.0,0,Train,1.0,CC(=O)Oc(c1C(=O)O)cccc1
+Benzocaine,1.0,0,Train,1.0,CCOC(=O)c1ccc(N)cc1
+Methylsalicylate,1.0,0,Train,1.0,O=C(O)c1c(OC)cccc1
+Phenytoin,1.0,0,Train,1.0,c1ccccc1C2(C(=O)NC(=O)N2)c3ccccc3
+4-Methyl-7-ethoxycoumarin,27.2,1,Test,27.2,CCOc(cc1)cc(c12)oc(=O)cc2C
+Musk ketone,3.3,1,Test,3.3,CC(=O)c1c(C)c([N+]([O-])=O)c(C(C)(C)C)c([N+]([O-])=O)c1C
+Diclofenac,1.3,0,Test,1.3,c1cccc(c1CC(=O)O)Nc2c(Cl)cccc2Cl
+Quinine,15.7,1,Train,15.7,C=C[C@@H]([C@@H]12)CN(CC2)[C@H](C1)[C@H](O)c3ccnc(c34)ccc(c4)OC
+"1,3 Butylene glycol",1.0,0,Train,1.0,C[C@H](O)CCO
+2-Propanol,1.0,0,Train,1.0,CC(C)O
+Ascorbic acid,1.0,0,Train,1.0,OC[C@H](O)[C@@H](OC1=O)C(O)=C1O
+Cetyl alcohol,1.0,0,Train,1.0,OCCCCCCCCCCCCCCCC
+Ethanol,1.0,0,Train,1.0,OCC
+Glycerine,1.0,0,Train,1.0,OCC(O)CO
+Isopropyl myristate,1.0,0,Train,1.0,CC(C)OC(=O)CCCCCCCCCCCCC
+Lauric acid,1.7,0,Train,1.7,O=C(O)CCCCCCCCCCC
+Propylene glycol,1.0,0,Train,1.0,C[C@H](O)CO
+Dimethylsulfoxide,1.0,0,Test,1.0,CS(=O)C
+Carbamazepine,1.0,0,Test,1.0,c1cccc(c12)N(C(=O)N)c3c(C=C2)cccc3
+GSK260983A,1.0,0,Train,1.0,n1ccccc1C(=O)N[C@H](CCC2)c(c2c34)[nH]c3ccc(Cl)c4
+GW848687X,17.7,1,Train,17.7,O=C(O)c1cccc(n1)C(CCC2)=C2c3c(ccc(Cl)c3)OCc4c(F)cc(F)cc4
+SB-271046A,1.3,0,Test,1.3,c1c(Cl)ccc(c12)sc(c2C)S(=O)(=O)Nc(c3)ccc(OC)c3N4CCNCC4
+Minocycline,1.7,0,Train,1.7,NC(=O)C(C1=O)=C(O)[C@@H](N(C)C)[C@@H]([C@@]12O)C[C@H]3C(=C2O)C(=O)c4c(C3)c(N(C)C)ccc4O
+1,15.0,1,Test,15.0,CC(C)(O)c1ccc(nc1)N(CC2)CCN2c(c(c34)cccc4)nnc3Cc5ccccc5
+5,18.0,1,Test,18.0,CC(C)(O)c1cnc(cn1)N2CCN(C[C@H]2C)c(c(C)c3C)nnc3-c(cc4)ccc4C(F)(F)F
+6,1.2,0,Train,1.2,CC(C)(O)c1ccc(nc1)N(CC2)CCN2c(c(C)c3C)nnc3Cc4ccc(F)cc4
+7,1.0,0,Train,1.0,CC(C)(O)c1ccc(nc1)N(CC2)CCN2c(c(c34)CCC3)nnc4Cc5ccc(F)cc5
+8,7.0,1,Train,7.0,CC(C)(O)c1cnc(cn1)N2CCN(C[C@H]2C)c(c(c34)CCC3)nnc4Cc5ccccc5
+Mesyloxybenzyl Isobutylbenzenesulfonamide,1.003,0,Train,1.003,c1ccc(S(=O)(=O)N)c(CC(C)C)c1[C@H](OS(=O)(=O)C)c2ccccc2
+2-[(4-Chlorobenzyl)Sulfanyl]-4-(4-Chlorophenyl)-4-Oxobutanoic Acid,1.19,0,Train,1.19,c1cc(Cl)ccc1C(=O)C[C@@H](C(=O)O)SCc2ccc(Cl)cc2
+2-[(4-Chlorophenyl)Sulfanyl]-4-(4-Ethoxyphenyl)-4-Oxobutanoic Acid,1.84,0,Train,1.84,CCOc(cc1)ccc1C(=O)C[C@@H](C(=O)O)Sc2ccc(Cl)cc2
+Benzophenone-1,1.11,0,Train,1.11,c1ccccc1C(=O)c2c(O)cc(O)cc2
+Trisodium  Ascorbyl Palmitate  Phosphate,1.04,0,Train,1.04,O=C1O[C@H](C(O)=C1O)[C@@H](O)COC(=O)CCCCCCCCCCCCCCC
+2-(2-(3-Methylbenzyl)-1h-Benzo[D]Imidazol-1-Yl)-1-Morpholinoethanone,9.25,1,Train,9.25,C1COCCN1C(=O)Cn(c(c23)cccc2)c(n3)Cc4cc(C)ccc4
+Sodium Trideceth  Sulfate,0.98,0,Train,0.98,CCCCCCCCCCCCCOCCOCCOCCOS(=O)(=O)O
+Octocrylene,1.741,0,Train,1.741,c1ccccc1C(c2ccccc2)=C(C#N)C(=O)OC[C@@H](CC)CCCC
+HEXAHYDRO-HEXAMETHYL-CYCLOPENTA (-)-2-BENZOPYRAN,1.32,0,Train,1.16,CC1(C)[C@@H](C)C(C)(C)c(c12)cc3c(c2)[C@H](C)COC3
+dioxybenzone,1.0,0,Train,1.0,c1cccc(O)c1C(=O)c2c(O)cc(cc2)OC
+Simeprevir,15.917,1,Train,15.917,C1CC1S(=O)(=O)/N=C(O)\[C@]23[C@@H](C2)/C=C\CCCCN(C)C(=O)[C@H]4[C@H](/C(=N\3)O)C[C@H](C4)Oc5cc(-c(n6)scc6C(C)C)nc(c57)c(C)c(cc7)OC
+Sonidegib Phosphate,1.2,0,Train,1.2,C[C@@H]1CN(C[C@@H](O1)C)c(nc2)ccc2NC(=O)c3c(C)c(ccc3)-c4ccc(cc4)OC(F)(F)F
+Cabozantinib,1.27,0,Train,1.27,c1cc(F)ccc1NC(=O)C2(CC2)C(=O)Nc3ccc(cc3)Oc4ccnc(c45)cc(OC)c(c5)OC
+Tofacitinib Citrate,1.0,0,Test,1.0,N#CCC(=O)N(CC1)C[C@@H]([C@@H]1C)N(C)c2ncnc(c23)[nH]cc3
+Bromfenac Sodium,2.9,1,Train,2.9,c1ccc(CC(=O)O)c(N)c1C(=O)c2ccc(Br)cc2
+Afatinib Dimaleate,3.0,1,Train,3.05,CN(C)C\C=C\C(=O)Nc(c1)c(O[C@H]2CCOC2)cc(c13)ncnc3Nc(cc4)cc(Cl)c4F
+Niraparib Tosylate Monohydrate,7.3,1,Train,7.3,c1ccc(C(=O)N)c(c12)nn(c2)-c(cc3)ccc3[C@@H]4CCCNC4
+Crizotinib,3.4,1,Train,3.4,Clc1ccc(F)c(Cl)c1[C@@H](C)Oc(c(N)nc2)cc2-c3cnn(c3)C4CCNCC4
+Vandetanib,19.9,1,Train,19.9,C1CN(C)CCC1COc(c(c2)OC)cc(c23)ncnc3Nc4c(F)cc(Br)cc4
+Granisetron,1.664,0,Train,1.664,C1CC[C@H](N2C)C[C@H](CC12)NC(=O)c3nn(C)c(c34)cccc4
+Tolvaptan,2.2,1,Train,2.2,c1cccc(C)c1C(=O)Nc(cc2)cc(C)c2C(=O)N(c(c34)ccc(Cl)c3)CCC[C@H]4O
+Etravirine,1.0,0,Test,1.0,N#Cc1cc(C)c(c(C)c1)Oc2nc(nc(c2Br)N)Nc(cc3)ccc3C#N
+Rivaroxaban,1.0,0,Train,1.0,s1c(Cl)ccc1C(=O)NC[C@H](O2)CN(C2=O)c3ccc(cc3)N4CCOCC4=O
+Pasireotide Diaspartate,1.6,0,Test,1.6,c1ccccc1COc(cc2)ccc2C[C@H](C(=O)N[C@H](Cc3ccccc3)C(=O)N([C@@H]45)C[C@@H](C4)OC(=O)NCCN)NC(=O)[C@@H](CCCCN)NC(=O)[C@H](Cc6c[nH]c(c67)cccc7)NC(=O)[C@H](NC5=O)c8ccccc8
+Valbenazine Tosylate,1.0,0,Train,1.0,CC(C)[C@H](N)C(=O)O[C@@H]([C@@H](C1)CC(C)C)C[C@H]2N1CCc(c23)cc(OC)c(c3)OC
+Glecaprevir,10.263,1,Train,10.263,C1CC1(C)S(=O)(=O)NC(=O)[C@@]2([C@H](C(F)F)C2)NC(=O)[C@@H](N(C3)C(=O)[C@H](C(C)(C)C)NC(=O)O4)C[C@H]3Oc(nc5c(n6)cccc5)c6C(F)(F)/C=C/CO[C@@H]([C@H]47)CCC7
+Apremilast,1.0,0,Test,1.0,CC(=O)Nc1cccc(c12)C(=O)N(C2=O)[C@H](CS(=O)(=O)C)c3cc(c(cc3)OC)OCC
+Palbociclib,1.44,0,Train,1.44,C1CCCC1n(c(=O)c(C(=O)C)c2C)c(c23)nc(nc3)Nc(nc4)ccc4N5CCNCC5
+R138727,2.1,1,Train,2.1,c1cccc(F)c1[C@@H](C(=O)C2CC2)N(C3)CC[C@@H](S)/C3=C\C(=O)O
+R106583,1.0,0,Test,1.0,c1cccc(F)c1[C@@H](C(=O)C2CC2)N(C3)CC[C@@H](SC)/C3=C\C(=O)O
+Fesoterodine Fumarate,1.0,0,Train,1.0,OCc(c1)ccc(OC(=O)C(C)C)c1[C@H](CCN(C(C)C)C(C)C)c2ccccc2
+Aripiprazole,1.1,0,Train,1.1,C1CC(=O)Nc(c12)cc(cc2)OCCCCN3CCN(CC3)c(c4Cl)cccc4Cl
+Ceritinib,6.6,1,Train,6.6,C1CNCCC1c(c2C)cc(OC(C)C)c(c2)Nc(nc3)nc(c3Cl)Nc4c(S(=O)(=O)C(C)C)cccc4
+Cobimetinib Fumarate,2.17,1,Train,2.17,N1CCCC[C@H]1C2(O)CN(C2)C(=O)c3c(c(F)c(F)cc3)Nc4c(F)cc(I)cc4
+Regorafenib,3.0,1,Test,3.0,CNC(=O)c1cc(ccn1)Oc(cc2)cc(F)c2NC(=O)Nc(c3)ccc(Cl)c3C(F)(F)F
+Silodosin,4.2,1,Train,4.2,OCCCN(CC1)c(c12)c(C(=O)N)cc(c2)C[C@@H](C)NCCOc(c3OCC(F)(F)F)cccc3
+Nintedanib Esylate,18.4,1,Test,18.4,COC(=O)c(cc1)cc(c12)NC(=O)C\2=C(\c3ccccc3)Nc(cc4)ccc4N(C)C(=O)CN5CCN(C)CC5
+Dasatinib,24.5,1,Train,24.5,c1ccc(Cl)c(c1C)NC(=O)c2cnc(s2)Nc(nc3C)cc(n3)N(CC4)CCN4CCO
+Nilotinib Hydrochloride Monohydrate,7.2,1,Train,7.2,Cc1cn(cn1)-c(c2)cc(cc2C(F)(F)F)NC(=O)c3cc(c(C)cc3)Nc(n4)nccc4-c5cccnc5
+Ixazomib Citrate,1.54,0,Train,1.54,O=C(O)CC1(CC(=O)O)C(=O)OB(O1)[C@H](CC(C)C)NC(=O)CNC(=O)c2c(Cl)ccc(Cl)c2
+Bendamustine Hydrochloride,0.9,0,Train,0.9,O=C(O)CCCc(n1)n(C)c(c12)ccc(c2)N(CCCl)CCCl
+Gefitinib,11.62,1,Train,11.62,C1COCCN1CCCOc(c2)c(OC)cc(c23)ncnc3Nc(cc4)cc(Cl)c4F
+Sunitinib,1.995,0,Train,1.995,CCN(CC)CCNC(=O)c1c(C)c([nH]c1C)/C=C/2C(=O)Nc(c23)ccc(F)c3
+Brexpiprazole,5.34,1,Train,5.34,c1cc(=O)[nH]c(c12)cc(cc2)OCCCCN3CCN(CC3)c4cccc(c45)scc5
+Eltrombopag,18.06,1,Train,18.06,O=C(O)c1cc(ccc1)-c2c(O)c(ccc2)N\N=C\3C(=O)N(N=C3C)c(c4)ccc(C)c4C
+Canagliflozin,4.41,1,Train,4.41,c1cc(F)ccc1-c(s2)ccc2Cc3c(C)ccc(c3)[C@H](O4)[C@H](O)[C@@H](O)[C@H](O)[C@H]4CO
+Panobinostat,1.3,0,Train,1.3,ONC(=O)/C=C/c1ccc(cc1)CNCCc2c(C)[nH]c(c23)cccc3
+Bedaquiline,5.0,1,Train,5.0,c1cccc(c12)cccc2[C@](O)(CCN(C)C)[C@H](c3ccccc3)c(c4)c(OC)nc(c45)ccc(Br)c5
+Eluxadoline,1.0,0,Train,1.0,NC(=O)c1cc(C)c(c(C)c1)C[C@H](N)C(=O)N(Cc(c2)ccc(OC)c2C(=O)O)[C@@H](C)c3nc(c[nH]3)-c4ccccc4
+Avobenzone,11.4783333,1,Train,11.478,CC(C)(C)c(cc1)ccc1C(=O)CC(=O)c2ccc(cc2)OC
+Quercetin,1.2,0,Train,1.2,Oc1cc(O)cc(c12)oc(c(c2=O)O)-c3cc(O)c(O)cc3
+Taxifolin,1.0,0,Train,1.0,Oc1cc(O)cc(c12)O[C@@H]([C@H](C2=O)O)c(c3)ccc(O)c3O
+Hydroxycinnamic acid,1.08,0,Test,1.08,O=C(O)/C=C/c1ccc(O)cc1
+GFLX,2.9,1,Train,2.9,O=C(O)c(c1=O)cn(C2CC2)c(c13)c(OC)c(c(F)c3)N(C[C@@H]4C)CCN4
+SPFX,28.5,1,Train,28.5,O=C(O)c(c1=O)cn(C2CC2)c(c13)c(F)c(c(F)c3N)N(C[C@H]4C)C[C@@H](C)N4
+Fenamidone,1.76,0,Train,1.76,c1ccccc1[C@@]2(C)C(=O)N(C(=N2)SC)Nc3ccccc3
+Flufenacet,1.08,0,Train,1.08,c1cc(F)ccc1N(C(C)C)C(=O)COc(s2)nnc2C(F)(F)F
+Propineb,0.7,0,Train,0.7,S=C(S)N[C@H](C)CNC(=S)S
+Prothioconazole,1.118,0,Train,1.118,[nH]1cnn(c1=S)C[C@@](O)(C2(Cl)CC2)Cc3c(Cl)cccc3
+Mefloquin,1.78,0,Train,1.78,c1ccc(C(F)(F)F)c(c12)nc(C(F)(F)F)cc2[C@H](O)[C@@H]3CCCCN3
+WR007930,29.0,1,Train,29.0,N1CCCC[C@H]1[C@@H](O)c2cc(-c3ccccc3)nc(c24)c(Cl)cc(Cl)c4
+Narigenin,1.0,0,Train,1.0,Oc1cc(O)cc(c12)oc(cc2=O)-c3ccc(O)cc3
+BP-3 phenylamine,1.0985,0,Train,1.099,c1ccccc1C(=O)c2c(cc(cc2)OC)Nc3ccccc3
+BP-3 methoxy-phenylamine,0.96,0,Train,0.96,c1ccccc1C(=O)c2c(cc(cc2)OC)Nc3ccc(cc3)OC
+BP-3 carbazole,2.7,1,Test,2.7,c1ccccc1C(=O)c(ccc2OC)c3[nH]c(c4c23)cccc4
+BP-3 carbonate,11.045,1,Train,11.045,c1ccccc1C(=O)c2c(cc(cc2)OC)OC(=O)CC
+Chrysin,1.0,0,Train,1.0,Oc1cc(O)cc(c12)oc(cc2=O)-c3ccccc3
+Beta-Carotene,1.936,0,Test,1.936,C1CCC(C)=C(C1(C)C)/C=C/C(C)=C/C=C/C(C)=C/C=C/C=C(C)/C=C/C=C(C)/C=C/C(C2(C)C)=C(C)CCC2
+4OHDCF,2.0,1,Test,2.0,c1cccc(c1CC(=O)O)Nc2c(Cl)cc(O)cc2Cl
+5OHDCF,12.0,1,Train,12.0,c1c(O)ccc(c1CC(=O)O)Nc2c(Cl)cccc2Cl
+Promazine,17.0,1,Train,17.0,CN(C)CCCN1c(cccc2)c2Sc(c13)cccc3
+CPZSO,3.0,1,Train,3.0,CN(C)CCCN1c(cccc2)c2[S@](=O)c(c13)ccc(Cl)c3
+LLAcR,2.05,1,Train,2.05,CCCCCCCCCCCC(=O)O[C@@H](COC(=O)[C@@H](NC(=O)C)CCCN/C(=N/[H])N)COC(=O)CCCCCCCCCCC
+LAcR,9.7,1,Train,9.7,[H]\N=C(N)\NCCC[C@H](NC(=O)C)C(=O)OC[C@@H](O)COC(=O)CCCCCCCCCCC
+ex1,1.0,0,Train,2.14,c1ccccc1/C=C(N(C)C2=O)/C(=O)N([C@H]23)CCC3
+isosafryl glycole,1.0,0,Train,1.0,C[C@H](O)[C@H](O)c(c1)ccc(c12)OCO2
+piperonyl alcohol,5.2,1,Train,5.2,OCc(c1)ccc(c12)OCO2
+S-Flurbiprofen,1.0,0,Train,1.0,O=C(O)[C@@H](C)c1cc(F)c(cc1)-c2ccccc2
+55514-22-2,2.085,1,Train,2.085,c1ccccc1-c2c(-c3ccccc3)nnc(n2)-c4ccc(cc4)-c(n5)nnc(-c6ccccc6)c5-c7ccccc7
+85-91-6,26.25,1,Test,26.25,COC(=O)c1c(NC)cccc1
+S87,1.15,0,Test,1.15,N#CCC(=O)OCCOCC=C1CC[C@@H](CC1)NCCCOC
+Benzisothiazolon,1.54,0,Train,1.54,O=c1[nH]sc(c12)cccc2
+Vetiverylacetate,5.0,1,Train,5.0,CC(C)=C(C1)C[C@H]([C@@H]12)[C@H](C)C[C@H](C=C2C)OC(=O)C
+POEA,1.0,0,Test,1.0,CCCCCCCCCCCCCCCCCCN(CCOCCO)CCCOCCO
+Glyphosate,1.06,0,Test,1.06,O=C(O)CNCP(=O)(O)O
+Acetyltyrosinamide,1.0,0,Test,1.0,CC(=O)N[C@H](C(=O)N)Cc1ccc(O)cc1
+"2,34,6-trimethylbenzophenone",28.0,1,Train,28.0,c1ccccc1C(=O)c2c(C)cc(C)c(C)c2
+"2,4,6-Trimethylbenzoyl Diphenylphosphine Oxide",17.0,1,Train,17.0,c1ccccc1P(=O)(c2ccccc2)C(=O)c3c(C)cc(C)cc3C
+1-Hydroxycyclohexyl phenyl ketone,7.5,1,Train,7.5,C1CCCCC1(O)C(=O)c2ccccc2
+Vitamin K3,2.3,1,Train,2.3,O=C1C(C)=CC(=O)c(c12)cccc2
+Binimetinib,18.8,1,Train,18.8,OCCONC(=O)c(cc(c12)n(C)cn2)c(c1F)Nc3c(F)cc(Br)cc3
+Tafenoquin,4.0,1,Train,4.0,FC(F)(F)c1cc(ccc1)Oc2c(OC)cc(c(c23)nc(OC)cc3C)N[C@@H](C)CCCN
+ex15,4.9,1,Train,4.9,O=C1C[C@@H]([C@@H](O1)O)NC(=O)Cn(c(=O)n(c2)C(C)C)c(=O)c2NC(=O)c3c(C)cc(cc3)Nc(c4)ccc(c45)cccc5
+ex17,7.3,1,Train,7.3,O=C1C[C@@H]([C@@H](O1)O)NC(=O)[C@H](CC)n(c(=O)n(c2)C(C)C)c(=O)c2NC(=O)c3c(C)cc(cn3)Nc(c4)ccc(c45)cccc5
+ex19,3.5,1,Train,3.5,O=C1C[C@@H]([C@@H](O1)O)NC(=O)C2(CC2)n(c(=O)n(c3)C(C)C)c(=O)c3NC(=O)c4ccc(cc4)Nc(c5)ccc(c56)cccc6
+ex20,1.0,0,Train,1.0,O=C1C[C@H]([C@@H](O1)O)NC(=O)C2(CC2)n(c(=O)n(c3)C(C)C)c(=O)c3NC(=O)c4c(C)cc(cc4)Nc(c5)ccc(c56)cccc6
+ex21,1.0,0,Train,1.0,O=C1C[C@@H](C[C@H](O1)O)NC(=O)C2(CC2)n(c(=O)n(c3)C(C)C)c(=O)c3NC(=O)c4c(C)cc(cc4)Nc(c5)ccc(c56)cccc6
+ex2,8.82,1,Train,8.82,s1cccc1C(=O)CN2CCN(CC2)c(c(F)c3)cc(c34)n(C5CC5)cc(c4=O)C(=O)O
+ex3,5.18,1,Train,5.18,s1cccc1C(=O)CN2CCN(CC2)c(c(F)c3)nc(c34)n(CC)cc(c4=O)C(=O)O
+ex4,0.57,0,Train,0.57,c1ccccc1CO\N=C(c2cccs2)\CN3CCN(CC3)c(c(F)c4)cc(c45)n(CC)cc(c5=O)C(=O)O
+ex5,0.92,0,Train,0.92,c1ccccc1CO\N=C(c2cccs2)\CN3CCN(CC3)c(c(F)c4)cc(c45)n(C6CC6)cc(c5=O)C(=O)O
+ex6,0.58,0,Train,0.58,c1ccccc1CO\N=C(c2cccs2)\CN3CCN(CC3)c(c(F)c4)nc(c45)n(CC)cc(c5=O)C(=O)O
+ex7,1.0,0,Train,1.0,s1cccc1C(=N/OC)\CN2CCN(CC2)c(c(F)c3)cc(c34)n(CC)cc(c4=O)C(=O)O
+ex9,17.5,1,Train,17.5,s1cccc1C(=N/O)\CN2CCN(CC2)c(c(F)c3)nc(c34)n(CC)cc(c4=O)C(=O)O
