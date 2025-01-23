@@ -1,0 +1,16 @@
+name: uvvisml
+channels:
+  - conda-forge
+  - pytorch
+  - rdkit
+  - defaults
+dependencies:
+  - python=3.7.10
+  - scikit-learn
+  - pandas
+  - numpy
+  - tqdm
+  - rdkit
+  - openpyxl
+  - sigopt
+  - xgboost
